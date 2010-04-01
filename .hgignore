@@ -1,0 +1,15 @@
+syntax: glob
+*.swp
+*.pyc
+*~
+*.o
+.DS_Store
+*.db
+.installed.cfg
+local_settings.py
+parts/
+eggs/
+bin/
+develop-eggs/
+downloads/
+
